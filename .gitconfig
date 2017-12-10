@@ -1,0 +1,8 @@
+[user]
+	name = piro19
+	email = 2202101+piro19@users.noreply.github.com
+[core]
+	editor = vim
+	excludesfile = /Users/kenji/.gitignore_global
+[color]
+	ui = auto
