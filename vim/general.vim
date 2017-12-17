@@ -1,0 +1,3 @@
+" Clipboard
+set clipboard=unnamed
+
